@@ -1,0 +1,22 @@
+
+.navbar{
+    /* background-color: #4B0150; */
+    max-width: 1250px;
+    padding: 15px 50px;
+    margin: auto;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbarlink{
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+.navbarlink:hover{
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}

@@ -1,0 +1,14 @@
+.footer {
+  width: 100%;
+  text-align: center;
+  font-weight: 500;
+  padding: 2px;
+  margin-top: 25px;
+  color: gray
+}
+
+@media only screen and (max-width: 768px) {
+    .footer{
+        position: static;
+    }    
+}
