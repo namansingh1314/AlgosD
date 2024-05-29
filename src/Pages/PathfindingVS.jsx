@@ -286,12 +286,9 @@ function App() {
           Video Tutorial
         </h3>
         <div style={{ display: "flex", justifyContent: "center" }}>
-          <iframe
-            width="90%"
-            height="300px"
-            src="https://youtu.be/e1NQlX9sLT0?si=h9-UG2D3tGwWS5fK"
-            title="myVideo"
-          ></iframe>
+          
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/e1NQlX9sLT0?si=2sfNZwHPvp2cNGBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          
         </div>
       </Modal>
 
